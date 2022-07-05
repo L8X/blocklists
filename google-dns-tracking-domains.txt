@@ -210,3 +210,4 @@ xcrl0u-dnsotls-ds.metric.gstatic.com
 xrfn-dnsotls-ds.metric.gstatic.com
 yfnaw9-dnsotls-ds.metric.gstatic.com
 yuq6xm-dnsotls-ds.metric.gstatic.com
+yvqo1t-dnsotls-ds.metric.gstatic.com
